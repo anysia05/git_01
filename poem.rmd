@@ -24,3 +24,24 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In numbers' silent dance, we find our truth,  
+Statistics weave a tapestry of proof,  
+They tell the stories hidden in the data's grace,  
+Revealing patterns, in each and every case.  
+  
+Mean, median, mode, they take their place,  
+Measuring the center with unwavering grace,  
+Standard deviation, a spread's embrace,  
+Quantifying variability in the race.  
+  
+In histograms' bars, our insights gleam,  
+Bell curves whisper secrets in a dream,  
+Regression lines predict, like a gleaming beam,  
+In this world of numbers, we find our scheme.  
+  
+So let us not forget, in this numeric sphere,  
+Statistics' magic, both far and near,  
+For in their calculations, we hold the key,  
+To understand the world, to set our minds free.  
+  
